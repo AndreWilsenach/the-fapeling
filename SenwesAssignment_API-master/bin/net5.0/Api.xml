@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SenwesAssignment_API</name>
+    </assembly>
+    <members>
+        <member name="M:SenwesAssignment_API.Controllers.EmployeeController.Get">
+            <summary>
+            Get all employees
+            </summary>
+            <returns>Returns a list of all employees</returns>
+        </member>
+    </members>
+</doc>
